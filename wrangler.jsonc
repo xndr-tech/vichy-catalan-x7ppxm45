@@ -1,0 +1,19 @@
+{
+  "name": "vichy-catalan-x7ppxm45",
+  "compatibility_date": "2025-12-31",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "src/index.ts",
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "enabled": true
+  },
+  "env": {
+    "preview": {
+      "name": "vichy-catalan-x7ppxm45-preview"
+    }
+  }
+}

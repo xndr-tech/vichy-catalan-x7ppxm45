@@ -1,0 +1,12 @@
+{
+  "name": "vichy-catalan-x7ppxm45",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vichy catalan info site, including how many you'd have to drink to actually get lithium poisoning.",
+  "type": "module",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241218.0",
+    "wrangler": "^3.96.0",
+    "typescript": "^5.7.2"
+  }
+}
